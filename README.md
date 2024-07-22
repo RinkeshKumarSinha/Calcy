@@ -7,5 +7,7 @@ This HTML document includes a simple calculator interface with buttons for digit
 
 ## Authors
 
+author guys
+
 - [@RinkeshKumarSinha](https://github.com/RinkeshKumarSinha)
 
